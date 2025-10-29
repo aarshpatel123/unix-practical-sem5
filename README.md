@@ -1,7 +1,6 @@
 # 🐚 Unix Practical Questions – Directories & Files
 
 
----
 
 ## 📂 Creating & Navigating
 
@@ -30,7 +29,7 @@
    ls -a
    ```
 
----
+
 
 ## 📄 File Creation & Editing
 
@@ -59,7 +58,7 @@
     wc -w docs/a.txt
     ```
 
----
+
 
 ## 📁 Copying, Moving & Renaming
 
@@ -83,7 +82,6 @@
     cp docs/*.txt .
     ```
 
----
 
 ## 🧹 Deleting & Cleaning Up
 

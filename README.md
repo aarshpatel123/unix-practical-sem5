@@ -1,7 +1,5 @@
 # 🐚 Unix Practical Questions – Directories & Files
 
-**📅 Submission Date:** 25/08/2025  
-**📁 Journal File:** Use the red file for submission
 
 ---
 
@@ -99,8 +97,4 @@
     rm -r ~/unix_practice
     ```
 
-- 🟥 Use the red file for journal submission.
 
----
-
-Let me know if you'd like help generating a sample screenshot or converting this into a downloadable file!

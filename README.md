@@ -99,12 +99,6 @@
     rm -r ~/unix_practice
     ```
 
----
-
-## 📸 Submission Instructions
-
-- ✅ Run these commands in a UNIX shell.
-- 📷 If you don’t have access to a shell, include screenshots of the output.
 - 🟥 Use the red file for journal submission.
 
 ---
